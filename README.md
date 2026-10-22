@@ -3,7 +3,7 @@
 <!-- Write this file yourself. It is the first thing a reviewer reads,
      and it has to be in your voice. Prompts to answer: --> 
 
-Worked on 20 triage alerts, giving verdicts to each case correctly, provide real evidence to backup my claims, provide suggestions to resolve the incidents and tune the alerts.
+Worked on 80 triage alerts, 20 shifts in total, giving verdicts to each case correctly, provide real evidence to backup my claims, provide suggestions to resolve the incidents and tune the alerts.
 
 ## What this engagement was
 <!-- Two or three sentences: the client, the queue, your role. -->
